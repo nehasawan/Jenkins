@@ -1,0 +1,29 @@
+train with Shubham:
+
+developer wrote project -> upload on git hub 
+to build we use docker -> deploy on ec 2 or k8s cluste -> we monitor using Prometheus ->
+if again modify code should go through all phase so it should be continuous.
+
+all can this happen automatic  by using Jenkins - continuous integration 
+
+CD
+- continuous delivery/deployment: will automate delivery of anthing like app.
+-A continuous delivery (CD) pipeline is an automated expression of your process for getting software from version control right through to your users
+
+sojenkins use to CI.CD
+
+Jenkins Pipeline (or simply "Pipeline" with a capital "P") is a suite of plugins which supports implementing and integrating continuous delivery pipelines into Jenkins.
+
+Pipeline provides an extensible set of tools for modeling simple-to-complex delivery pipelines "as code"
+
+Blue ocean:
+the CD tool for teams 
+ a new user experience for Jenkins based on a personalizable, modern design that allows users to graphically create, visualize and diagnose Continuous Delivery (CD) Pipelines ""
+manages and controls several stages of the software delivery process, including build, documentation, automated testing, packaging, and static code analysis
+
+ two types of Jenkins?
+:Declarative and Scripted.
+
+What are Jenkins stages?
+: “Build”, “Test”, and “Deploy”.
+
